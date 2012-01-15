@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="title">Advanced FBReader settings</string>
+	<string name="short_title">Advanced settings</string>
+	<string name="advanced_settings_menu_item">Advanced settings</string>
+</resources>

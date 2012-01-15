@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="title">FBReader: дополнительные настройки</string>
+	<string name="short_title">Дополнительные настройки</string>
+	<string name="advanced_settings_menu_item">Доп. настройки</string>
+</resources>
